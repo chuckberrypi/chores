@@ -1,0 +1,7 @@
+import wisp
+import sqlight.{type Connection}
+
+
+type Context {
+	Context(db: Connection)
+}

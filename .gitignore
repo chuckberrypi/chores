@@ -1,0 +1,7 @@
+*.beam
+*.ez
+/build
+erl_crash.dump
+chores_db.db
+chores_db.sqbpro
+manifest.toml
